@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex001/Ex001.csproj": {}
+  },
+  "projects": {
+    "/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex001/Ex001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex001/Ex001.csproj",
+        "projectName": "Ex001",
+        "projectPath": "/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex001/Ex001.csproj",
+        "packagesPath": "/Users/Anna/.nuget/packages/",
+        "outputPath": "/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex001/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Anna/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
