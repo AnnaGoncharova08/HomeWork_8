@@ -5,13 +5,13 @@
 void Zadacha54()
 {
 Random random = new Random();
-int rows = random.Next(2, 6);
+int rows = random.Next(3, 6);
 int columns = random.Next(3, 7);
 int[,] array = new int[rows, columns]; 
 FillArray(array);
 PrintArray(array);
 Sort(array);
-Console.WriteLine();
+Console.WriteLine("Отсортированный по убыванию элементов каждой строки массив:");
 PrintArray(array);
 
 void FillArray(int[,] array)
@@ -44,20 +44,21 @@ void PrintArray(int[,] array)
 
 void Sort(int[,] array)
 {
-    for (int i = 0; i < rows; i++)
+  for (int i = 0; i < rows; i++)
+  {
+    for (int j = 0; j < columns; j++)
     {
-        int minPosition = i;
-        for (int j = i + 1; j < columns; j++)
+      for (int k = 0; k < columns - 1; k++)
+      {
+        if (array[i, k] < array[i, k + 1])
         {
-            if (array[i,j] < array[minPosition,j])
-            {
-                minPosition = j;
-            }
-        int temp = array[i,j];
-        array[i,j] = array[minPosition,j];
-        array[minPosition,j] = temp;
+          int temp = array[i, k + 1];
+          array[i, k + 1] = array[i, k];
+          array[i, k] = temp;
         }
+      }
     }
+  }
 }
 }
 Zadacha54();

@@ -1,0 +1,15 @@
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/bin/Debug/net6.0/Ex002
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/bin/Debug/net6.0/Ex002.deps.json
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/bin/Debug/net6.0/Ex002.runtimeconfig.json
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/bin/Debug/net6.0/Ex002.dll
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/bin/Debug/net6.0/Ex002.pdb
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/obj/Debug/net6.0/Ex002.csproj.AssemblyReference.cache
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/obj/Debug/net6.0/Ex002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/obj/Debug/net6.0/Ex002.AssemblyInfoInputs.cache
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/obj/Debug/net6.0/Ex002.AssemblyInfo.cs
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/obj/Debug/net6.0/Ex002.csproj.CoreCompileInputs.cache
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/obj/Debug/net6.0/Ex002.dll
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/obj/Debug/net6.0/refint/Ex002.dll
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/obj/Debug/net6.0/Ex002.pdb
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/obj/Debug/net6.0/Ex002.genruntimeconfig.cache
+/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex002/obj/Debug/net6.0/ref/Ex002.dll
