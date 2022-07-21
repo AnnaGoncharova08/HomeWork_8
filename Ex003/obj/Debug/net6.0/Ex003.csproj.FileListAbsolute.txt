@@ -1,5 +1,0 @@
-/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex003/obj/Debug/net6.0/Ex003.csproj.AssemblyReference.cache
-/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex003/obj/Debug/net6.0/Ex003.GeneratedMSBuildEditorConfig.editorconfig
-/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex003/obj/Debug/net6.0/Ex003.AssemblyInfoInputs.cache
-/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex003/obj/Debug/net6.0/Ex003.AssemblyInfo.cs
-/Users/Anna/Desktop/Учеба/1 четверть/4 блок. Знакомство с языками программирования/Семинар 8. Как не нужно писать код/HomeWork_8/Ex003/obj/Debug/net6.0/Ex003.csproj.CoreCompileInputs.cache
