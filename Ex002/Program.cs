@@ -41,30 +41,28 @@ void PrintArray(int[,] array)
 
 void Sum(int[,] array)
 {
-    int sumTemp = 0;
-    int minSum = 0;
-    int row = 1;
-    int minRow = 1;
+    
+    int sumMin = 0;
+    int minRow = 0;
+    for (int j = 0; j < columns; j++)
+    {
+        sumMin += array[0,j];
+    }
     for (int i = 0; i < rows; i++)
     {
-        int sumCount = 0;
+        int sum = 0;
         for (int j = 0; j < columns; j++)
         {
-            sumCount += array[i,j];
+            sum += array[i,j];
         }
-        if (sumCount < sumTemp)
+        Console.WriteLine ($"Сумма строки {i+1}-й = {sum}");
+        if (sum < sumMin)
         {
-            minSum = sumCount;
+            sumMin = sum;
             minRow = i + 1;
         }
-        else
-        {
-            sumTemp = sumCount;
-        }
-    Console.WriteLine ($"Сумма строки {row} = {sumCount}");
-    row++;
     }
-Console.WriteLine ($"Cтрока c минимальной суммой: {minRow}");    
+Console.WriteLine ($"Cтрока c минимальной суммой: {minRow} и равна {sumMin}");    
 }
 }
 Zadacha54();
